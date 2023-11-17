@@ -30,11 +30,11 @@ The following screen captures show the classification report as well as the accu
 ## Summary
 Based on the overall accurcy scores of the logistic regression model, along with its high degree of precision in correctly classifying healthy loans vs those that are at high risk of default, my recommendation is to use the logistic regression model.
 
-Resources:
+Resources:  
 Some coding I looked at for inspiration:  
 https://github.com/saraparveen26/SupervisedLearning---Credit-Risk-Classification
 
-Acknowledgements:
+Acknowledgements:  
 I wish to thank my teaching staff:  
 Hunter Hollis  
 Sam Espe  

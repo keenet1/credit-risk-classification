@@ -13,7 +13,7 @@ For the target values of loan status, a value of 0 was used to indicate that the
 The process used for creating and testing the model included the following steps:
 - Reading the original data into a Pandas DataFrame
 - Splitting the data into training and testing Sets
-- Creating a Logistic Regression Model with the Original Data
+- Creating a Logistic Regression Model with the original data
 - Evaluating the model's performance using both a confusion matrix and a classification report
 
 ## Results

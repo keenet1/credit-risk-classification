@@ -1,4 +1,6 @@
-# credit Risk Classification
+# Credit Risk Classification
+
+Note: The completed assignment is located in the folder titled "Credit_Risk" and is titled "credit_risk_classification.ipynb"
 
 ## Overview
 

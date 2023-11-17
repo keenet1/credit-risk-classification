@@ -32,13 +32,12 @@ Based on the overall accurcy scores of the logistic regression model, along with
 
 Resources:
 
-Some coding I looked at for inspiration:
+Some coding I looked at for inspiration:  
 https://github.com/saraparveen26/SupervisedLearning---Credit-Risk-Classification
 
 Acknowledgements:
 
-I wish to thank my teaching staff:
-
-Hunter Hollis
-Sam Espe
+I wish to thank my teaching staff:  
+Hunter Hollis  
+Sam Espe  
 Randy Sendek

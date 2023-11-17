@@ -2,7 +2,7 @@
 
 Note: The completed assignment is located in the folder titled "Credit_Risk" and is titled "credit_risk_classification.ipynb"
 
-## Overview
+## Overview of the Analysis
 
 The purpose of this activity was to use various techniques to train and evaluate a machine learning model based on loan risk. The activity used a dataset of historical lending activity from a peer-to-peer lending services company to build a model that could identify the creditworthiness of borrowers and then classify the credit risk predictions.
 
@@ -24,4 +24,8 @@ The following screen captures show the classification report as well as the accu
 
 ![Screenshot 2023-11-16 at 4 21 28 PM](https://github.com/keenet1/credit-risk-classification/assets/137319054/fc4f5b79-a6e4-4954-b71d-bbff1a06c030)
 
+ - The logistic regression model predicts a healthy (low-risk) loan with 100% precision and predicts a high-risk loan with 85% precision.
+ - Overall, the model does well as can be seen from the high accuracy score of 99.18% as well as the balanced accuracy score of 95.20%.
 
+## Summary
+Based on the overall accurcy scores of the logistic regression model, along with its high degree of precision in correctly classifying healthy loans vs those that are at high risk of default, my recommendation is to use the logistic regression model.
